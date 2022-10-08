@@ -1,0 +1,2 @@
+config={'cache_path':'','chinese_bert_path':'','chinese_bert_layer':'','english_bert_path':'',
+'english_bert_layer':'','other_lan_bert_path':'','other_lan_bert_layer':'','fast_align_path':'','data_root_path':''}
