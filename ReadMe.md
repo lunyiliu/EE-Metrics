@@ -7,4 +7,6 @@ transformers
 (1) Fill in the paths in Config.py  
 (2) Run example.py to get the correlations of WMT19
 ## Cite
-TBA
+Liu, Y., Tao, S., Su, C., Zhang, M., Zhao, Y., & Yang, H. (2022, November). Part represents whole: Improving the evaluation of machine translation system using entropy enhanced metrics. In Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022 (pp. 296-307).  
+
+
